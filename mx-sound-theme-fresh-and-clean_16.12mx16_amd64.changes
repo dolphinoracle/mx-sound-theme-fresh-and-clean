@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 04 Dec 2016 08:05:32 -0400
+Source: mx-sound-theme-fresh-and-clean
+Binary: mx-sound-theme-fresh-and-clean
+Architecture: source all
+Version: 16.12mx16
+Distribution: mx
+Urgency: low
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphinoracle <dolphinoracle@gmail.com>
+Description:
+ mx-sound-theme-fresh-and-clean - Fresh and Clean sound theme packaged for mx-system-sounds
+Changes:
+ mx-sound-theme-fresh-and-clean (16.12mx16) mx; urgency=low
+ .
+   * new sound theme package
+Checksums-Sha1:
+ 86243875241ae241878dea5b2a4fa207231936af 731 mx-sound-theme-fresh-and-clean_16.12mx16.dsc
+ 369f64595fd6d6d3403f53f9a81c904d2708bbe0 1299196 mx-sound-theme-fresh-and-clean_16.12mx16.tar.xz
+ 860e9a7d52f2baf04f977ee708554688e8d2c723 1300202 mx-sound-theme-fresh-and-clean_16.12mx16_all.deb
+Checksums-Sha256:
+ 4ca06bb494f4d2a778814aea56b90edde7fee5f2402fb2468d4803e3a1262804 731 mx-sound-theme-fresh-and-clean_16.12mx16.dsc
+ d26e8a3d646c8a3fe9086aaf2f705d173d9a0dac599ec07f70c6f64cd197563d 1299196 mx-sound-theme-fresh-and-clean_16.12mx16.tar.xz
+ 6c988ce61c02f93e3f1a1c3420c5565984f5abf896136761c16a76038b5a5b1a 1300202 mx-sound-theme-fresh-and-clean_16.12mx16_all.deb
+Files:
+ f988ef34c443426e2385735c3899bca3 731 system optional mx-sound-theme-fresh-and-clean_16.12mx16.dsc
+ ee9c905015bb0740f6514773d485cf6c 1299196 system optional mx-sound-theme-fresh-and-clean_16.12mx16.tar.xz
+ 1ca6ca35e30a0f3d416f2cdeb9d0dfd7 1300202 system optional mx-sound-theme-fresh-and-clean_16.12mx16_all.deb
